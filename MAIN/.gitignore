@@ -1,0 +1,44 @@
+# =========================
+# Dataset & Model
+# =========================
+Dataset/
+Dataset.zip
+Model/
+Reporting/
+
+# =========================
+# Secrets & API Keys 
+# =========================
+bearer_token.txt
+key.txt
+secret.txt
+
+# =========================
+# Temporary Scripts
+# =========================
+test_search.py
+get_messi_locations.py
+get_ronaldo_locations.py
+
+# =========================
+# Jupyter & Python
+# =========================
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# =========================
+# Generated / Media Files
+# =========================
+*.avi
+*.jpg
+Commands before launching power BI.PNG
+
+# =========================
+# Generated Wordcloud Files
+# =========================
+generate_messi_wordcloud.ipynb
+generate_messi_wordcloud.py
+
+LICENSE
+CODE_OF_CONDUCT.md
